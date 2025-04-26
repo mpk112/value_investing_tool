@@ -100,3 +100,4 @@ value_invest/
 
 #kite
 credential/kite_cred.json
+credential/access_token.json

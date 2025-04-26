@@ -97,3 +97,6 @@ ehthumbs.db
 
 #env
 value_invest/
+
+#kite
+credential/kite_cred.json
